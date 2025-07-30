@@ -14,7 +14,7 @@ layout: default
 
 ## 🧬 About Me
 
-I’m a PhD scholar passionate about decoding how viruses outsmart treatment through unique proofreading mechanisms. My research explores the molecular workings of viral exonucleases to inspire next-generation antiviral strategies. I blend biochemistry, biophysics, RNA-seq, single-cell RNA-seq, and piRNA mapping to bridge fundamental biology and therapeutic innovation.
+I’m a PhD scholar passionate about decoding how viruses outsmart treatment through unique proofreading mechanisms. My research explores the molecular workings of viral exonucleases to inspire next-generation antiviral strategies. I blend biochemistry, biophysics, and computational biology to bridge fundamental biology and therapeutic innovation.
 
 ---
 
@@ -22,7 +22,8 @@ I’m a PhD scholar passionate about decoding how viruses outsmart treatment thr
 
 ### 🦠 Coronavirus Proofreading Mechanism
 
-Why do many antivirals fail against coronaviruses? During the COVID-19 pandemic, I became fascinated by this question. I discovered that coronaviruses possess a special enzyme—a proofreading exonuclease—that detects and removes antiviral drugs, allowing them to preserve their genetic code. My research deciphers this mechanism at the molecular level to design better therapies. This project was a deviation from my lab's core focus on neural crest lineage and melanocyte fate—but thanks to the support of my curious PI, it became a reality.
+During the COVID-19 pandemic, I found myself intrigued by a big question—why did many powerful antivirals fail to control the disease effectively? As I dug deeper, I discovered that coronaviruses have a unique defense: a proofreading exonuclease that detects and removes antiviral drugs, helping the virus maintain its genetic integrity. My PhD journey is centered around decoding how this proofreading mechanism works at the molecular level—and using that knowledge to boost the power of existing antivirals or create smarter, next-generation treatments that can outsmart the virus.This project was a deviation from my lab's core focus on neural crest lineage and melanocyte fate—but thanks to the support of my curious PI, it became a reality.
+
 
 ### 🎨 Vitiligo and Mitochondrial Health
 
